@@ -76,7 +76,7 @@ def part1():
     if start == "start":
         library1()
     else:
-        print("CAN'T EVEN SPELL PROPERLY, DEPRESSING.")
+        print("CAN'T EVEN FOLLOW SIMPLE INSTRUCTIONS, DEPRESSING.")
         morals = morals - 1
         part1()
 
